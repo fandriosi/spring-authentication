@@ -1,0 +1,10 @@
+com/andriosi/fabio/authentication/model/JwtRequest.class
+com/andriosi/fabio/authentication/controller/JwtAuthenticationController.class
+com/andriosi/fabio/authentication/service/JwtUserDetailsService.class
+com/andriosi/fabio/authentication/controller/AuthenticationController.class
+com/andriosi/fabio/authentication/config/JwtRequestFilter.class
+com/andriosi/fabio/authentication/config/WebSecurityConfig.class
+com/andriosi/fabio/authentication/config/JwtTokenUtil.class
+com/andriosi/fabio/authentication/model/JwtResponse.class
+com/andriosi/fabio/authentication/SpringAuthentication.class
+com/andriosi/fabio/authentication/config/JwtAuthenticationEntryPoint.class

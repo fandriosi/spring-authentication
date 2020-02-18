@@ -1,0 +1,10 @@
+/home/andriosi/IdeaProjects/SpringAuthentication/src/main/java/com/andriosi/fabio/authentication/config/JwtTokenUtil.java
+/home/andriosi/IdeaProjects/SpringAuthentication/src/main/java/com/andriosi/fabio/authentication/config/WebSecurityConfig.java
+/home/andriosi/IdeaProjects/SpringAuthentication/src/main/java/com/andriosi/fabio/authentication/config/JwtAuthenticationEntryPoint.java
+/home/andriosi/IdeaProjects/SpringAuthentication/src/main/java/com/andriosi/fabio/authentication/model/JwtResponse.java
+/home/andriosi/IdeaProjects/SpringAuthentication/src/main/java/com/andriosi/fabio/authentication/service/JwtUserDetailsService.java
+/home/andriosi/IdeaProjects/SpringAuthentication/src/main/java/com/andriosi/fabio/authentication/controller/AuthenticationController.java
+/home/andriosi/IdeaProjects/SpringAuthentication/src/main/java/com/andriosi/fabio/authentication/config/JwtRequestFilter.java
+/home/andriosi/IdeaProjects/SpringAuthentication/src/main/java/com/andriosi/fabio/authentication/controller/JwtAuthenticationController.java
+/home/andriosi/IdeaProjects/SpringAuthentication/src/main/java/com/andriosi/fabio/authentication/model/JwtRequest.java
+/home/andriosi/IdeaProjects/SpringAuthentication/src/main/java/com/andriosi/fabio/authentication/SpringAuthentication.java
