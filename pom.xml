@@ -50,7 +50,18 @@
             <artifactId>jjwt</artifactId>
             <version>0.9.1</version>
         </dependency>
+        <dependency>
+            <groupId>com.ibm.db2.jcc</groupId>
+            <artifactId>db2jcc4</artifactId>
+            <version>10.1</version>
+        </dependency>
     </dependencies>
+    <repositories>
+        <repository>
+            <id>activiti-thirdparty</id>
+            <url>https://artifacts.alfresco.com/nexus/content/repositories/activiti-thirdparty/</url>
+        </repository>
+    </repositories>
     <build>
         <plugins>
             <plugin>
